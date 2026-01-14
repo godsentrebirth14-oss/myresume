@@ -4,6 +4,10 @@
  div.container {
     text-align: center;
 }
+.media {
+    max-width: 600px;
+}
+
 
 h1, h2{
     color: #574964;
@@ -50,3 +54,4 @@ hr {
 footer {
     text-align: right;
 }
+
